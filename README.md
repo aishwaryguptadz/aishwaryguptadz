@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aakash Kumar  
+# 👋 Hi, I'm Aishwary Kumar  
 An aspiring Android App Developer passionate about building impactful mobile apps.
 
 ## 🔧 Skills
