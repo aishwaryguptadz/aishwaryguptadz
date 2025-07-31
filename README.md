@@ -14,7 +14,7 @@ An aspiring Android App Developer passionate about building impactful mobile app
 - 🔍 Search feature and detailed movie info on click
 - 🎨 Responsive and clean design inspired by the original Netflix interface
 - 🌐 Tech Stack: React.js, TMDB API, CSS Modules / Tailwind (or your stack)
-- 📂 [GitHub Repo](https://github.com/aishwaryguptadz/NetflixClone)
+- 📂 [Netflix Clone](https://github.com/aishwaryguptadz/NetflixClone)
 
 ### 🎵 Musify – Android Music Player App
 - 🎧 A sleek and responsive music player for offline playback
@@ -22,7 +22,7 @@ An aspiring Android App Developer passionate about building impactful mobile app
 - 🔊 MediaPlayer service with notification controls and background play
 - 🌙 Light/Dark Mode UI with Material 3 design
 - 🔧 Tech Stack: Kotlin, Android Studio, MediaPlayer API
-- 📂 [GitHub Repo](https://github.com/aishwaryguptadz/Musify)
+- 📂 [Musify](https://github.com/aishwaryguptadz/Musify)
 
 ## 📬 Contact
 - 📧 Email: aishaakash182@gmail.com
