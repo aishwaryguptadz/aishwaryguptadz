@@ -25,6 +25,6 @@ An aspiring Android App Developer passionate about building impactful mobile app
 - 📂 [GitHub Repo](https://github.com/aishwaryguptadz/Musify)
 
 ## 📬 Contact
-- 📧 Email: aakash@example.com  
+- 📧 Email: aishaakash182@gmail.com
 - 🔗 [LinkedIn](www.linkedin.com/in/aishwary-kumar)  
 - 💻 [GitHub](https://github.com/aishwaryguptadz)
