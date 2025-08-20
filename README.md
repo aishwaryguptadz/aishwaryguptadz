@@ -14,30 +14,31 @@
 ## 📱 Projects  
 
 ### 🚀 Wegyanik – Education & Innovation Platform (Android App)  
-📚 An app for **Wegyanik**, empowering students and institutions with technology kits and workshops.  
-🤖 Covers domains like **Robotics, AI, Space Science, and Incubation Support**.  
+An Android app for [Wegyanik.in](https://www.wegyanik.in), an **Education & Innovation platform** that provides students and institutions with technology kits, workshops, and innovation programs.  
 
-**✨ Features:**  
+**✨ Features:**
+- Modern UI with Material Design 3  
+- Light/Dark Mode support  
 - Navigation Drawer & Bottom Navigation  
-- Dark Mode Support  
-- Interactive UI  
+- Integration with Wegyanik.in backend  
 
-**🛠 Tech Stack:** Kotlin, Android Studio, Material Design, Hilt, KSP  
-📂 [WeGyanik](#) *(https://github.com/aishwaryguptadz/WeGyanik)*  
+**🛠 Tech Stack:** Kotlin, Android Studio, Material Design, XML Layouts, Hilt, KSP, Firebase  
+📂 [WeGyanik](https://github.com/aishwaryguptadz/WeGyanik)  
+📱 [Download APK](#) (Not yet available)
 
 ---
 
 ### 🎬 Netflix Clone – Movie Streaming UI  
-📺 A **Netflix-inspired UI clone** with trending, popular, and category-based movie sections.  
-🔍 Includes **search feature** and **detailed movie info on click**.  
+📺 An **Android app** replicating Netflix-style UI and features.  
 
-**🎨 Features:**  
-- Responsive & clean design  
-- Category browsing  
-- Search with TMDB API  
+**✨ Features:**  
+- Browse movies in Trending, Popular, and Categories  
+- Search functionality  
+- Detailed movie info on selection  
+- Clean Material-inspired design  
 
-**🛠 Tech Stack:** React.js, TMDB API, CSS Modules / Tailwind  
-📂 [Netflix Clone](#) *(https://github.com/aishwaryguptadz/NetflixClone)*
+**🛠 Tech Stack:** Kotlin, Android Studio, RecyclerView, TMDB API  
+📂 [Netflix Clone](https://github.com/aishwaryguptadz/NetflixClone)
 
 ---
 
@@ -45,21 +46,19 @@
 🎧 A **sleek and responsive** Android music player for offline playback.  
 
 **✨ Features:**  
-- Play / Pause / Next / Previous  
-- Shuffle & Repeat  
+- Play / Pause / Next / Previous    
 - Auto-play & Background play  
-- Notification controls  
 - Light/Dark Mode (Material 3)  
 
-**🛠 Tech Stack:** Kotlin, Android Studio, MediaPlayer API  
-📂 [Musify](#) *(https://github.com/aishwaryguptadz/Musify)*
+**🛠 Tech Stack:** Kotlin, Android Studio  
+📂 [Musify](https://github.com/aishwaryguptadz/Musify)
 
 ---
 
 ## 📬 Contact  
 📧 [Email](mailto:aishaakash182@gmail.com)  
-🔗 [LinkedIn](#) *(https://www.linkedin.com/in/aishwary-kumar)*  
-💻 [GitHub](#) *(https://github.com/aishwaryguptadz)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/aishwary-kumar)  
+💻 [GitHub](https://github.com/aishwaryguptadz)  
 
 ---
 ⭐️ *Feel free to explore my repositories and connect with me!* 🚀  
